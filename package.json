@@ -1,0 +1,16 @@
+{
+  "name": "fak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "start": "node ./testAuth"
+  },
+  "author": "",
+  "dependencies": {
+    "@octokit/app": "^4.2.0",
+    "@octokit/rest": "^17.9.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
